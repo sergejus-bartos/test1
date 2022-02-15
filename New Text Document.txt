@@ -1,12 +1,1 @@
-1234567896
-new line
-more edits in branch
-one more line
-
-edited in branch
-
-edited in branch once more
-
-edited in branch once once  more
-
 changes before rebasing conflicts
